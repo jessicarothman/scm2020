@@ -10,7 +10,7 @@ boundary        p p p  # <- condições periodicas de contorno em 3D
 variable        T       equal 273.15       # temperatura (K) !!! ALTERE AQUI !!!
 variable        V       equal vol          # volume
 variable        dt      equal 1.0          # passo de tempo para integração (fs)
-variable        seed    equal 28092020     # semente do PRNG !!! ALTERE AQUI !!!
+variable        seed    equal 10300403     # semente do PRNG !!! ALTERE AQUI !!!
 
 # para o calculo da viscosidade
 variable        p       equal 6000          # comprimento de correlação
